@@ -10,3 +10,4 @@
 link college capstone
 
 # Python (show stats, and a code block)
+https://github.com/johnleonard512/johnleonard512.github.io/issues/1#issue-1839815898
