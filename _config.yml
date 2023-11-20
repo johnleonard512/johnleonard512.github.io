@@ -11,6 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/johnleonard512/">View my LinkedIn Profile</a> 
   <br><br>
   <a href ="http://johnleonard512.pythonanywhere.com/"> View my Python Web App</a>
-remote_theme: pages-themes/minimal@v0.2.0
-
+theme: jekyll-theme-minimal
 
