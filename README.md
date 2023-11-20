@@ -3,8 +3,10 @@
  link dashboard
 
 ## Data Visualisation and Analysis (brad business problem)
+correlations, statistical significance
 
 ## Data Sourcing, Cleaning (brad business problem)
+impute, removing bad data, python webcrawler
 
 ## Machine Learning (time series, grocery store or customer segmentation)
 link college capstone
