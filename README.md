@@ -1,7 +1,8 @@
 # My Portfolio 
 ## Power BI Dashboard Sample
  link dashboard
-
+## SQL querying
+queries & joins
 ## Data Visualisation and Analysis (brad business problem)
 correlations, statistical significance, dune 
 sales forecasting 
