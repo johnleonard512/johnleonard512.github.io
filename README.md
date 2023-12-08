@@ -5,8 +5,12 @@
 
 
 ## Excel Modeling
-I modeled my projected earnings in Excel
+I modeled my earning potential in Excel to determine how much life insurance would be appropriate.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/78fe0721-e22c-4fa5-971b-bf61ce41fa95)
+
+Predicted losses for a Workers Comp. insurance company
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/972a8579-3c5e-497f-bd21-5f2c74c017da)
+
 
 ## Data Visualisation, Analysis, and Machine Learning.
 This scatterplot is from a college research project comparing square footage and the sale price of homes.  
