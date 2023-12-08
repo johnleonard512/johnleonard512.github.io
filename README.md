@@ -6,15 +6,20 @@
 ## SQL querying
 queries & joins
 ## Data Visualisation and Analysis (brad business problem)
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
 This is my workflow, going from the raw data, to a confusion matrix that evaluates the effectiveness of the predictive model.
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
+
+Raw data recieved from the datasource.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb)
+
+Correlations from the dataset, showing variables and their R value with other variables.  Sorted from strong to weak correlations. 
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d)
-Correlations from the dataset.
 
+
+Confusion Matrix results, showing false positives/negatives.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/d249f7cc-ac71-4d8f-b0ff-fb9fe580d515)
-The decision tree, sorting customers by factors that determine the churn.
 
+The decision tree, sorting customers by factors that determine the churn.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8f609363-c2ba-4cf2-b7d1-2f3c92f5e1af)
 
 ##________________________________________________________________________________________________________________________________________________
