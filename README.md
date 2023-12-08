@@ -11,10 +11,10 @@ This is my workflow, going from the raw data, to a confusion matrix that evaluat
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
 
 Raw data recieved from the datasource.
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb)
+<img src ="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb" width="300" height="300">
 
 Correlations from the dataset, showing variables and their R value with other variables.  Sorted from strong to weak correlations. 
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d)
+<img src ="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d" width="300" height="300">
 
 The decision tree, sorting customers by factors that determine the churn.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8f609363-c2ba-4cf2-b7d1-2f3c92f5e1af)
