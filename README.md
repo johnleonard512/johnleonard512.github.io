@@ -1,6 +1,7 @@
 # My Portfolio 
 ## Power BI Dashboard Sample
- link dashboard
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/f52ddf9c-ff9d-41ee-8c17-ec0b5491c7a6)
+
 ## SQL querying
 queries & joins
 ## Data Visualisation and Analysis (brad business problem)
