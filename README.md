@@ -7,7 +7,6 @@
 queries & joins
 ## Data Visualisation and Analysis (brad business problem)
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
-
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb)
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d)
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/d249f7cc-ac71-4d8f-b0ff-fb9fe580d515)
