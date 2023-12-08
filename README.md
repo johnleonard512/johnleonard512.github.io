@@ -5,7 +5,7 @@
 
 ## SQL querying
 queries & joins
-## Data Visualisation and Analysis (brad business problem)
+## Data Visualisation, Analysis, and Machine Learning.
 This is my workflow, going from the raw data, to a confusion matrix that evaluates the effectiveness of the predictive model.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
 
@@ -15,21 +15,20 @@ Raw data recieved from the datasource.
 Correlations from the dataset, showing variables and their R value with other variables.  Sorted from strong to weak correlations. 
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d)
 
-
-Confusion Matrix results, showing false positives/negatives.
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/d249f7cc-ac71-4d8f-b0ff-fb9fe580d515)
-
 The decision tree, sorting customers by factors that determine the churn.
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8f609363-c2ba-4cf2-b7d1-2f3c92f5e1af)
 
-##________________________________________________________________________________________________________________________________________________
+Confusion Matrix results that evaluate the model, showing false positives/negatives.
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/d249f7cc-ac71-4d8f-b0ff-fb9fe580d515)
+
+________________________________________________________________________________________________________________________________________________
 
 This scatterplot is from a college research project comparing square footage and the sale price of homes.  
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/591561b1-f79d-4a3d-9d30-08d22c134a39)
 
-
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6dbf6f19-7d9e-475b-844d-a90b90cb2b9a)
 This is my workflow for cleaning data prior to analysis; selecting the relevant data, removing outliers, imputing missing data based on the most appropriate method (average or median)
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6dbf6f19-7d9e-475b-844d-a90b90cb2b9a)
+
 
 ## Python (show stats, and a code block)
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6a4de389-d41c-4500-9099-5248628009b5)
