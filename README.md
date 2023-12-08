@@ -6,9 +6,8 @@
 ## SQL querying
 queries & joins
 ## Data Visualisation and Analysis (brad business problem)
-correlations, statistical significance, dune 
-sales forecasting 
-cleaning, imputing etc.
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/591561b1-f79d-4a3d-9d30-08d22c134a39)
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6dbf6f19-7d9e-475b-844d-a90b90cb2b9a)
 
 ## Python (show stats, and a code block)
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6a4de389-d41c-4500-9099-5248628009b5)
