@@ -6,6 +6,15 @@
 ## SQL querying
 queries & joins
 ## Data Visualisation and Analysis (brad business problem)
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704)
+
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb)
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/1922cce3-4b5c-44fc-9efa-b2b6707dfc8d)
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/d249f7cc-ac71-4d8f-b0ff-fb9fe580d515)
+
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8f609363-c2ba-4cf2-b7d1-2f3c92f5e1af)
+
+
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/591561b1-f79d-4a3d-9d30-08d22c134a39)
 This scatterplot is from a college research project comparing square footage and the sale price of homes.  
 
