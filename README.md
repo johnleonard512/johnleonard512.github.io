@@ -1,6 +1,7 @@
 # My Portfolio 
 ## Power BI Dashboard Sample
-![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/f52ddf9c-ff9d-41ee-8c17-ec0b5491c7a6)
+<img src="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/f52ddf9c-ff9d-41ee-8c17-ec0b5491c7a6" width="300" height="200">
+
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/13c1d7a4-b6d8-4980-9a7d-b786c8313f6d)
 
 ## SQL querying
