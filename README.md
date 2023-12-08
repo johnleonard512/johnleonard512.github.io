@@ -8,7 +8,7 @@
 queries & joins
 ## Data Visualisation, Analysis, and Machine Learning.
 This is my workflow, going from the raw data, to a confusion matrix that evaluates the effectiveness of the predictive model.
-<img src="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704" width="700" height="700">
+<img src="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/8ea42d1c-5df3-4ccb-9433-a16ce97cd704" width="700" height="400">
 
 Raw data recieved from the datasource.
 <img src ="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/189e34f1-1e2d-45ef-8767-3b5a55ebccdb" width="300" height="300">
