@@ -28,9 +28,9 @@ This is my workflow for cleaning data prior to analysis; selecting the relevant 
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6dbf6f19-7d9e-475b-844d-a90b90cb2b9a)
 
 
-## Python (show stats, and a code block)
+## Python Data Modeling
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6a4de389-d41c-4500-9099-5248628009b5)
-Code for this graph:
+# Code for this graph:
         print('_____________________________________')
         print("Datapoints per Month")
         print('_____________________________________')
@@ -63,5 +63,3 @@ Code for this graph:
         plt.show()
 
 
-## Machine Learning (time series, grocery store or customer segmentation)
-low priority link college capstone
