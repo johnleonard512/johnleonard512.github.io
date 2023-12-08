@@ -4,8 +4,10 @@
 <img src="https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/13c1d7a4-b6d8-4980-9a7d-b786c8313f6d" width="700" height="350">
 
 
-## SQL querying
-queries & joins
+## Excel Modeling
+I modeled my projected earnings in Excel
+![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/78fe0721-e22c-4fa5-971b-bf61ce41fa95)
+
 ## Data Visualisation, Analysis, and Machine Learning.
 This scatterplot is from a college research project comparing square footage and the sale price of homes.  
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/591561b1-f79d-4a3d-9d30-08d22c134a39)
