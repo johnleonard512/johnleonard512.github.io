@@ -30,7 +30,7 @@ This is my workflow for cleaning data prior to analysis; selecting the relevant 
 
 ## Python Data Modeling
 ![image](https://github.com/johnleonard512/johnleonard512.github.io/assets/140750487/6a4de389-d41c-4500-9099-5248628009b5)
-# Code for this graph:
+Code for this graph:
 
         print('_____________________________________')
         print("Datapoints per Month")
